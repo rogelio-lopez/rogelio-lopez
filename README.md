@@ -1,7 +1,7 @@
-<p align="left">
-  <img width="460" height="300" src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif">
+<p>
+  <img align="left" width="460" height="300" src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif">
+  <h2 align="right">I'm <span Rogelio Lopez, Welcome to my GitHub!</h2>
 </p>
-<h2 align="right">I'm <span Rogelio Lopez, Welcome to my GitHub!</h2>
 <!--
 **rogelio-lopez/rogelio-lopez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
