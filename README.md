@@ -2,7 +2,7 @@
 
 <br>
 
-<p>I'm a recent Florida State University graduate with a degree in Computer Science, who is passionate about web and software development. Looking to improve every day!</p>
+<p>I'm a recent Florida State University graduate with a degree in Computer Science, who is passionate about web and software development. Always looking to learn and improve every day!</p>
 
 <h2>
 Get in touch!<img src="https://media.giphy.com/media/mGo8dkPOF6GLm/giphy.gif" height="40px">
