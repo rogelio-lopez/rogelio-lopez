@@ -1,5 +1,4 @@
-<p>
-  <img align="left" width="460" height="300" src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif">
+<p align="center"> 
   <h1>Hi!</h1><br/>
   <h2>I'm Rogelio Lopez, Welcome to my GitHub!</h2>
 </p>
