@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://media.giphy.com/media/26xBukhJ0i8KXADYc/giphy.gif" alt = "hi" width="100px" height="100px"> <br >I'm <a href="https://www.linkedin.com/in/rogelio-j-lopez/">Rogelio Lopez</a>. Welcome to my GitHub!</h1>
+<h1 align="center"><img src="https://media.giphy.com/media/26xBukhJ0i8KXADYc/giphy.gif" alt = "hi" height="200px"> <br >I'm <a href="https://www.linkedin.com/in/rogelio-j-lopez/">Rogelio Lopez</a>. Welcome to my GitHub!</h1>
 <!--
 **rogelio-lopez/rogelio-lopez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
