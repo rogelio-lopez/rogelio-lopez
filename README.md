@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<br>
 
 <h2>
 Get in touch!<img src="https://github.com/tusharnankani/tusharnankani/blob/master/Assets/Handshake.gif" height="32px">
