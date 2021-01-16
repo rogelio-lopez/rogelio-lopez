@@ -2,12 +2,12 @@
 
 <br>
 
-<p>I'm a recent Florida State University graduate with a degree in Computer Science, who is passionate about web and software development. Always looking to learn and improve every day!</p>
+<h4>I'm a recent Florida State University graduate with a degree in Computer Science, who is passionate about web and software development. Always looking to learn and improve every day!</h4>
 
 <br>
 
 <h3>
-  Skills
+  Languages
 </h3>
 
 - HTML <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" height="25px">
