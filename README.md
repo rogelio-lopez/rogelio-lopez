@@ -10,7 +10,7 @@
   Languages
 </h3>
 
-∙ HTML <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" height="25px"> ∙ CSS <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" height="25px"> ∙ JavaScript <img src="https://cdn.iconscout.com/icon/free/png-256/javascript-2752148-2284965.png" height="25px"> ∙ TypeScript <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" height="25px"> ∙ C++ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png" height="25px"> ∙ C <img src="https://cdn.iconscout.com/icon/free/png-256/c-programming-569564.png" height="25px"> ∙ SQL <img src="https://w7.pngwing.com/pngs/28/601/png-transparent-sql-logo-illustration-microsoft-azure-sql-database-microsoft-sql-server-database-blue-text-logo.png" height="25px">
+∙ HTML <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" height="25px"> ∙ CSS <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" height="25px"> ∙ JavaScript <img src="https://cdn.iconscout.com/icon/free/png-256/javascript-2752148-2284965.png" height="25px"> ∙ TypeScript <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" height="25px"> ∙ C++ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png" height="25px"> ∙ C <img src="https://cdn.iconscout.com/icon/free/png-256/c-programming-569564.png" height="25px"> ∙ SQL <img src="https://www.logo.wine/a/logo/Oracle_SQL_Developer/Oracle_SQL_Developer-Logo.wine.svg" height="25px">
 
 <h3>
   Frameworks / Libraries
@@ -22,7 +22,7 @@
   Tools
 </h3>
 
-∙ MySQL <img src="" height="25px"> ∙ MongoDB <img src="" height="25px"> ∙ Firebase <img src="" height="25px"> ∙ Git <img src="" height="25px">
+∙ MySQL <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" height="25px"> ∙ MongoDB <img src="https://cdn.worldvectorlogo.com/logos/mongodb.svg" height="25px"> ∙ Firebase <img src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-standard.png" height="25px"> ∙ Git <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png" height="25px">
 
 <br>
 <h3>
