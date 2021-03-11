@@ -11,7 +11,14 @@
 
 </div>   
 
-<h4 align="center">I'm a Front-end Developer and Florida State University graduate, who is passionate about creating experiences. Always looking to learn and improve every day!</h4>
+<br>
+<h3>
+💻 About Me
+</h3>
+<h5>
+  
+ 🎓 Graduated from Florida State University with a Computer Scienece degree
+</h5>
 
 <br>
 <h3>
