@@ -17,7 +17,7 @@
 </p>
 
 
-<img alt="Coding IRL" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" align="right" height="200px"/>
+<img alt="Coding IRL" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" align="right" height="300px"/>
 
 ### ⚡ &nbsp;Tech Stack
 
