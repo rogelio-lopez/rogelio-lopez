@@ -5,9 +5,7 @@
 <div align="center">
 <h3>
 Get in touch!<img src="https://media.giphy.com/media/mGo8dkPOF6GLm/giphy.gif" height="50px">
-</h3>
-
-| [<img src="https://www.svgrepo.com/show/57068/linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/rogelio-j-lopez/) | [<img src="https://github.com/tusharnankani/tusharnankani/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:rogejlopez@gmail.com) | [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/rogelio-lopez) |
+</h3> | [<img src="https://www.svgrepo.com/show/57068/linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/rogelio-j-lopez/) | [<img src="https://github.com/tusharnankani/tusharnankani/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:rogejlopez@gmail.com) | [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/rogelio-lopez) |
 |:---:|:---:|:---:|
 
 </div>
@@ -27,12 +25,6 @@ Get in touch!<img src="https://media.giphy.com/media/mGo8dkPOF6GLm/giphy.gif" he
 </h3>
 
 ∙ NodeJS <img src="https://www.brainfuel.io/images/node-js-new.png" height="25px"> ∙ Express <img src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" height="25px"> ∙ React <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" height="25px"> ∙ Angular <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/240px-Angular_full_color_logo.svg.png" height="25px">
-
-<h3>
-  Tools
-</h3>
-
-∙ MySQL <img src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg" height="25px"> ∙ MongoDB <img src="https://cdn.worldvectorlogo.com/logos/mongodb.svg" height="25px"> ∙ Firebase <img src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-standard.png" height="25px"> ∙ Git <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png" height="25px">
 
 <br>
 <br>
