@@ -9,13 +9,13 @@
 <h3>
 💻 About Me
 </h3>
-<h5>
+<p>
  💡 Love to learn and improve every single day 
  <br>
  🎓 Graduated from Florida State University with a Computer Science degree
  
  📄 Have a look at my <a href="https://www.linkedin.com/in/rogelio-j-lopez/">Resume</a>! 
-</h5>
+</p>
 
 <br>
 <h3>
