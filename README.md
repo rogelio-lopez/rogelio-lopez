@@ -11,7 +11,7 @@
 
 </div>   
 
-<h4>I'm a recent Florida State University graduate with a degree in Computer Science, who is passionate about web and software development. Always looking to learn and improve every day!</h4>
+<h4 align="center">I'm a recent Florida State University graduate with a degree in Computer Science, who is passionate about web and software development. Always looking to learn and improve every day!</h4>
 
 <br>
 <h3>
