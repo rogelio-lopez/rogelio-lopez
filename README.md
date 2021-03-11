@@ -12,7 +12,7 @@
 <h5>
  💡 Love to learn and improve every single day
  
- 🎓 Graduated from Florida State University with a Computer Scienece degree
+ 🎓 Graduated from Florida State University with a Computer Science degree
  
  📄 Have a look at my <a href="https://www.linkedin.com/in/rogelio-j-lopez/">Resume</a>! 
 </h5>
