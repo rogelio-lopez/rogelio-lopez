@@ -15,7 +15,7 @@
  
  🎓 Graduated from Florida State University with a Computer Science degree
  
- 📄 Have a look at my <a href="./Rogelio_Lopez_Resume.pdf">Resume</a>! 
+ 📄 Have a look at my <a href="./Rogelio_Lopez_Resume.pdf" target="_blank">Resume</a>! 
 </p>
 
 <br>
