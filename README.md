@@ -1,5 +1,11 @@
 <!-- Inspired by: https://github.com/tusharnankani/tusharnankani -->
 
+<h3>
+Get in touch!<img src="https://media.giphy.com/media/mGo8dkPOF6GLm/giphy.gif" height="50px">
+</h3>
+| [<img src="https://www.svgrepo.com/show/57068/linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/rogelio-j-lopez/) | [<img src="https://github.com/tusharnankani/tusharnankani/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:rogejlopez@gmail.com) | [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/rogelio-lopez) |
+|:---:|:---:|:---:|
+
 <h1 align="center"><img src="https://media.giphy.com/media/26xBukhJ0i8KXADYc/giphy.gif" alt = "hi" height="250px"> <br >I'm <a href="https://www.linkedin.com/in/rogelio-j-lopez/">Rogelio Lopez</a>. Welcome to my GitHub!</h1>
 
 <br>
@@ -24,12 +30,5 @@
 
 ∙ MySQL <img src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg" height="25px"> ∙ MongoDB <img src="https://cdn.worldvectorlogo.com/logos/mongodb.svg" height="25px"> ∙ Firebase <img src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-standard.png" height="25px"> ∙ Git <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png" height="25px">
 
-
-<h3>
-Get in touch!<img src="https://media.giphy.com/media/mGo8dkPOF6GLm/giphy.gif" height="50px">
-</h3>
-
-| [<img src="https://www.svgrepo.com/show/57068/linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/rogelio-j-lopez/) | [<img src="https://github.com/tusharnankani/tusharnankani/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:rogejlopez@gmail.com) | [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/rogelio-lopez) |
-|:---:|:---:|:---:|
 <br>
 <br>
