@@ -5,7 +5,7 @@
 <img src="https://media.giphy.com/media/26xBukhJ0i8KXADYc/giphy.gif" alt = "hi" height="250px"> <br >I'm <a href="https://www.linkedin.com/in/rogelio-j-lopez/">Rogelio Lopez</a>. Welcome to my GitHub!
 </h1>
 
-<br>
+
 <h3>
 💻 About Me
 </h3>
@@ -18,7 +18,6 @@
  📄 Have a look at my <a href="./Rogelio_Lopez_Resume.pdf">Resume</a>! 
 </p>
 
-<br>
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
@@ -30,7 +29,6 @@
 
 
 
-<br>
 <h3>
 🤝🏻 Get in touch!
 </h3>
