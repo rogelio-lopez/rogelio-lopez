@@ -2,7 +2,7 @@
 
 
 <h1 align="center">
-<img src="https://media.giphy.com/media/26xBukhJ0i8KXADYc/giphy.gif" alt = "hi" height="250px"> <br >I'm <a href="https://www.linkedin.com/in/rogelio-j-lopez/">Rogelio Lopez</a>. Welcome to my GitHub!
+<img src="https://media.giphy.com/media/26xBukhJ0i8KXADYc/giphy.gif" alt = "hi" height="150px"> <br >I'm <a href="https://www.linkedin.com/in/rogelio-j-lopez/">Rogelio Lopez</a>. Welcome to my GitHub!
 </h1>
 
 
