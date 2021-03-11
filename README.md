@@ -22,7 +22,7 @@
   Tools
 </h3>
 
-∙ <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" height="40px"> ∙ <img src="https://cdn.worldvectorlogo.com/logos/mongodb.svg" height="30px"> ∙ <img src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-standard.png" height="30px"> ∙ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png" height="30px">
+∙ <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" height="50px"> ∙ <img src="https://cdn.worldvectorlogo.com/logos/mongodb.svg" height="30px"> ∙ <img src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-standard.png" height="30px"> ∙ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png" height="30px">
 
 
 <h3>
