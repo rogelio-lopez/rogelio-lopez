@@ -34,7 +34,7 @@
 🤝🏻 Get in touch!
 </h3>
   
-| [<img src="https://www.svgrepo.com/show/250861/web-website.svg" alt="Portfolio Logo" width="35">](https://rogeliolopez.dev) | [<img src="https://www.svgrepo.com/show/57068/linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/rogelio-j-lopez/) | [<img src="https://github.com/tusharnankani/tusharnankani/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:rogejlopez@gmail.com) | [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/rogelio-lopez) 
+| [<img src="https://www.svgrepo.com/show/250861/web-website.svg" alt="Portfolio Logo" width="37">](https://rogeliolopez.dev) | [<img src="https://www.svgrepo.com/show/57068/linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/rogelio-j-lopez/) | [<img src="https://github.com/tusharnankani/tusharnankani/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:rogejlopez@gmail.com) | [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/rogelio-lopez) 
 |:---:|:---:|:---:|:---:|
   
 <br>
