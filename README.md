@@ -6,6 +6,9 @@
 </h1>
 
 
+
+<img alt="Coding IRL" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" align="right" height="200px"/>
+
 <h3>
 💻 About Me
 </h3>
@@ -16,9 +19,6 @@
  <br>
  📄 Have a look at my <a href="./Rogelio_Lopez_Resume.pdf">Resume</a>! 
 </p>
-
-
-<img alt="Coding IRL" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" align="right" height="200px"/>
 
 ### ⚡ &nbsp;Tech Stack
 
