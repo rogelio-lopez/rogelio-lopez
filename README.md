@@ -10,9 +10,10 @@
 💻 About Me
 </h3>
 <p>
- 💡 Love to learn and improve every single day 
+ 💡 Love making cool stuff on the web
  <br>
- 🎓 Graduated from Florida State University with a Computer Science degree <br>
+ 🎓 Graduated from Florida State University with a Computer Science degree 
+ <br>
  📄 Have a look at my <a href="./Rogelio_Lopez_Resume.pdf">Resume</a>! 
 </p>
 
