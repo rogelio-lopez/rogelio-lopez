@@ -7,7 +7,7 @@ I'm <a href="https://www.linkedin.com/in/rogelio-j-lopez/">Rogelio Lopez</a>. We
 
 
 
-<img alt="Coding IRL" src="./no-idea.jpg align="right" height="200px"/>
+<img alt="Coding IRL" src="./no-idea.jpg" align="right" height="200px"/>
 
 <h3>
 💻 About Me
