@@ -15,9 +15,9 @@ I'm <a href="https://www.linkedin.com/in/rogelio-j-lopez/">Rogelio Lopez</a>. We
 <p>
  💡 Love making cool stuff on the web
  <br>
- 🎓 Graduated from Florida State University with a Computer Science degree 
+ 🎓 Florida State University - Computer Science 
  <br>
- 📄 Have a look at my <a href="./Rogelio_Lopez_Resume.pdf">Resume</a>! 
+ 📄 <a href="./Rogelio_Lopez_Resume.pdf">Resume</a>
 </p>
 
 ### ⚡ &nbsp;Tech Stack
