@@ -10,8 +10,7 @@ I'm <a href="https://www.linkedin.com/in/rogelio-j-lopez/">Rogelio Lopez</a>. We
 <img alt="Coding IRL" src="./no-idea.jpg" align="right" height="300px"/>
 
 <h3>
- 🎓 Florida State University 
- <br>   - Computer Science 
+ 🎓 Florida State University - CS
  <br>
 </h3>
 <h3>
