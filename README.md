@@ -9,14 +9,6 @@ I'm <a href="https://www.linkedin.com/in/rogelio-j-lopez/">Rogelio Lopez</a>. We
 
 <img alt="Coding IRL" src="./no-idea.jpg" align="right" height="300px"/>
 
-<h3>
- 🎓 Florida State University - CS
- <br>
-</h3>
-<h3>
- 📄 <a href="./Rogelio_Lopez_Resume.pdf">Resume</a>
-</h3>
-
 ### ⚡ &nbsp;Tech Stack
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
@@ -37,4 +29,8 @@ I'm <a href="https://www.linkedin.com/in/rogelio-j-lopez/">Rogelio Lopez</a>. We
 |:---:|:---:|
   
 <br>
+
+<h3>
+ 📄 <a href="./Rogelio_Lopez_Resume.pdf">Resume</a>
+</h3>
 <br>
