@@ -9,12 +9,7 @@ I'm <a href="https://www.linkedin.com/in/rogelio-j-lopez/">Rogelio Lopez</a>. We
 
 <img alt="Coding IRL" src="./no-idea.jpg" align="right" height="300px"/>
 
-<h3>
-💻 About Me
-</h3>
 <p>
- 💡 Love making cool stuff on the web
- <br>
  🎓 Florida State University - Computer Science 
  <br>
  📄 <a href="./Rogelio_Lopez_Resume.pdf">Resume</a>
