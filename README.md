@@ -22,14 +22,14 @@ I'm <a href="https://www.linkedin.com/in/rogelio-j-lopez/">Rogelio Lopez</a>. We
 ![Rust](https://img.shields.io/badge/-Rust-05122A?style=flat&logo=Rust)&nbsp;
 
 <h3>
+ 📄 <a href="./Rogelio_Lopez_Resume.pdf">Resume</a>
+</h3>
+
+<h3>
 🤝🏻 Get in touch!
 </h3>
   
 | [<img src="https://www.svgrepo.com/show/57068/linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/rogelio-j-lopez/) | [<img src="https://github.com/tusharnankani/tusharnankani/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:rogejlopez@gmail.com)
 |:---:|:---:|
   
-
-<h3>
- 📄 <a href="./Rogelio_Lopez_Resume.pdf">Resume</a>
-</h3>
 <br>
