@@ -10,11 +10,10 @@ I'm <a href="https://www.linkedin.com/in/rogelio-j-lopez/">Rogelio Lopez</a>. We
 <img alt="Coding IRL" src="./no-idea.jpg" align="right" height="300px"/>
 
 <h3>
+ 🎓 Florida State University 
+ <br>   - Computer Science 
  <br>
 </h3>
- 🎓 Florida State University 
- <br>- Computer Science 
- <br>
 <h3>
  📄 <a href="./Rogelio_Lopez_Resume.pdf">Resume</a>
 </h3>
