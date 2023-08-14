@@ -1,3 +1,8 @@
+<h3>
+ <a href="./Rogelio_Lopez_Resume.pdf">Resume</a>&ensp;|&ensp; 
+ <a href="https://www.linkedin.com/in/roge-lopez/">LinkedIn</a>
+</h3>
+
 <img alt="Coding IRL" src="./no-idea.jpg" align="right" height="300px"/>
 
 ### ⚡ &nbsp;Tech Stack
