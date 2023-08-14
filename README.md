@@ -1,12 +1,3 @@
-<!-- Inspired by: https://github.com/tusharnankani/tusharnankani-->
-
-
-<h1 align="center">
-I'm <a href="https://www.linkedin.com/in/rogelio-j-lopez/">Rogelio Lopez</a>. Welcome to my GitHub!
-</h1>
-
-
-
 <img alt="Coding IRL" src="./no-idea.jpg" align="right" height="300px"/>
 
 ### ⚡ &nbsp;Tech Stack
