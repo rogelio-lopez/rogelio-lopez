@@ -5,8 +5,8 @@
 </h4>
 
 
-<div style="width:100%;display: flex;">
- <div style="width:70%">
+<div style="width:100%;display:flex;">
+ <div style="width:60%">
   <h4>⚡&nbsp;Tech Stack</h4>
   
   ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
@@ -17,6 +17,7 @@
   ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
   
   <h4>🧠&nbsp;Learning</h4>
+  
   ![Rust](https://img.shields.io/badge/-Rust-05122A?style=flat&logo=Rust)&nbsp;
  
  </div>
