@@ -24,4 +24,4 @@
 </div>
 
 
-<h4>🏗️&nbsp;Check our my <a href="#choose-pinned-repositories">pinned project below ↓</a></h4>
+<h4>🏗️&nbsp;Check our my <a href="/#choose-pinned-repositories">pinned project below ↓</a></h4>
