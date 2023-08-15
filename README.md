@@ -5,7 +5,7 @@
 </h4>
 
 
-<div style="width:100%">
+<div style="width:100%;display: flex;">
  <div style="width:70%">
   <h4>⚡&nbsp;Tech Stack</h4>
   
@@ -18,6 +18,7 @@
   
   <h4>🧠&nbsp;Learning</h4>
   ![Rust](https://img.shields.io/badge/-Rust-05122A?style=flat&logo=Rust)&nbsp;
+ 
  </div>
 
  <img alt="Coding IRL" src="./no-idea.jpg" style="width:30%"/>
