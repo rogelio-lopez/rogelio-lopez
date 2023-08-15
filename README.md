@@ -27,7 +27,7 @@
  <h4>🏗️&nbsp;Projects</h4>
 
  <div style="display: flex;">
-  <div style="50%">
+  <div style="width:50%">
    <h5>Chat App</h5>
    <ul>
     <li>Chat application using websockets to send messages between clients in real time.</li>
@@ -35,6 +35,6 @@
     <li>Great way to learn about websockets and how they're used to in real-time applications.</li>
    </ul>
    </div>
-   <img alt="Coding IRL" src="./no-idea.jpg" style="50%"/>
+   <img alt="Coding IRL" src="./no-idea.jpg" style="width:50%"/>
  </div>
 </div>
