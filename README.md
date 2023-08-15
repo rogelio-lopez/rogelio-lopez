@@ -26,8 +26,8 @@
 <div>
  <h4>🏗️&nbsp;Projects</h4>
 
- <div>
-  <div align="right">
+ <div align="center">
+  <div align="left">
    <h5>Chat App</h5>
    <ul>
     <li>Chat application using websockets to send messages between clients in real time.</li>
