@@ -35,6 +35,6 @@
     <li>Great way to learn about websockets and how they're used to in real-time applications.</li>
    </ul>
    </div>
-   <img alt="Coding IRL" src="./no-idea.jpg" style="width:45%"/>
+   <img alt="Coding IRL" src="./no-idea.jpg" style="width:45%;float:right;"/>
  </div>
 </div>
