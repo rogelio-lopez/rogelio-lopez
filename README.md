@@ -22,3 +22,16 @@
  ![Rust](https://img.shields.io/badge/-Rust-05122A?style=flat&logo=Rust)&nbsp;
 
 </div>
+
+<div>
+ <h4>🏗️&nbsp;Projects</h4>
+
+ <div>
+  <h5>Chat App</h5>
+  <ul>
+   <li>Simple chat application that uses websockets to send messages between clients in real time.</li>
+   <li>Written entirely in VanillaJS, which means it does not use any third-party libraries or frameworks</li>
+   <li>The project was a great way to learn about websockets and how they can be used to create real-time applications.</li>
+  </ul>
+ </div>
+</div>
