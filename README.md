@@ -1,4 +1,4 @@
-<img alt="Coding IRL" src="./no-idea.jpg" width="250"/>
+<img alt="Coding IRL" src="./no-idea.jpg" width="300"/>
 
 <h4>
  <a href="https://www.linkedin.com/in/roge-lopez/">LinkedIn</a>&ensp;|&ensp;
