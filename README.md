@@ -27,7 +27,7 @@
  <h4>🏗️&nbsp;Projects</h4>
 
  <div style="position:relative;">
-  <div>
+  <div align="left">
    <h5>Chat App</h5>
    <ul>
     <li>Simple chat application that uses websockets to send messages between clients in real time.</li>
