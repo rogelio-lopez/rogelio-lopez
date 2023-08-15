@@ -26,15 +26,15 @@
 <div>
  <h4>🏗️&nbsp;Projects</h4>
 
- <div style="position:relative;">
-  <div align="left">
+ <div style="display: flex;">
+  <div style="50%">
    <h5>Chat App</h5>
    <ul>
-    <li>Simple chat application that uses websockets to send messages between clients in real time.</li>
-    <li>Written entirely in VanillaJS, which means it does not use any third-party libraries or frameworks</li>
-    <li>The project was a great way to learn about websockets and how they can be used to create real-time applications.</li>
+    <li>Chat application using websockets to send messages between clients in real time.</li>
+    <li>Written entirely in VanillaJS, not use any third-party libraries or frameworks</li>
+    <li>Great way to learn about websockets and how they're used to in real-time applications.</li>
    </ul>
    </div>
-   <img alt="Coding IRL" src="./no-idea.jpg" align="right"  width="300"/>
+   <img alt="Coding IRL" src="./no-idea.jpg" style="50%"/>
  </div>
 </div>
