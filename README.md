@@ -19,7 +19,7 @@
  
  <h4>🧠&nbsp;Learning</h4>
  
- ![Rust](https://img.shields.io/badge/-Rust-05122A?style=flat&logo=Rust)&nbsp;
+ ![Go](https://img.shields.io/badge/-Rust-05122A?style=flat&logo=Go)&nbsp;
 
 </div>
 
