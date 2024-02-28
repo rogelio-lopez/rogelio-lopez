@@ -26,4 +26,4 @@
 </div>
 
 
-<h4>🏗️&nbsp;Check our my <b>pinned projects</b> below ↓</h4>
+<h4 align="left" >🏗️&nbsp;Check our my <b>pinned projects</b> below ↓</h4>
