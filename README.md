@@ -1,5 +1,5 @@
 <div>
- <img alt="Coding IRL" src="./no-idea.jpg" align="right"  width="300"/>
+ <img alt="Coding IRL" src="./no-idea.jpg" align="right"  width="250"/>
 
  <div align="left" >
   <h4>
