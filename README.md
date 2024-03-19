@@ -4,7 +4,6 @@
  <div align="left" >
   <h4>
    <a href="https://www.linkedin.com/in/roge-lopez/">LinkedIn</a>&ensp;|&ensp;
-   <a href="./Rogelio_Lopez_Resume.pdf">Resume</a>&ensp;|&ensp;
    <a href="mailto:rogejlopez@gmail.com">rogejlopez@gmail.com</a>
   </h4>
   
