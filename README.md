@@ -1,5 +1,5 @@
 <div>
- <img alt="Coding IRL" src="./no-idea.jpg" align="right"  width="260"/>
+ <img alt="Coding IRL" src="./no-idea.jpg" align="right"  width="280"/>
 
  <div align="left" >
   <h4>
@@ -26,4 +26,4 @@
 </div>
 
 
-<h4 align="left" >🏗️&nbsp;Check our my <b>pinned projects</b> below ↓</h4>
+<h4 align="left" >Check our my <b>pinned projects</b> below ↓</h4>
